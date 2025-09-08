@@ -43,3 +43,25 @@ img{
     line-height: 0.5;
     
 }
+
+.evidenziato{
+    background-color: yellow;
+}
+table{
+    border-color: black;
+    
+}
+thead{
+    background-color: #1490f5;
+}
+tbody tr:nth-child(even) {
+    background-color: white;
+}
+tbody tr:nth-child(odd) {
+
+    background-color: rgb(158, 236, 250);
+}
+
+.white{
+    color: white;
+}
